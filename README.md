@@ -1,5 +1,6 @@
 ##  Installation
 Folder structure
+'''
 ├── Project-Course
 │   ├── CIHP_PGN
 │   ├── input
@@ -9,7 +10,7 @@ Folder structure
 │   ├── run_demo.sh
 │   ├── semantic_human_texture_stitching
 └── ...
-
+'''
 Download and install OpenPose https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 Download and install Octopus https://github.com/thmoa/octopus]
