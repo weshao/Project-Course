@@ -1,0 +1,8 @@
+/images/0000.png /labels/0000.png
+/images/0001.png /labels/0001.png
+/images/0002.png /labels/0002.png
+/images/0003.png /labels/0003.png
+/images/0004.png /labels/0004.png
+/images/0005.png /labels/0005.png
+/images/0006.png /labels/0006.png
+/images/0007.png /labels/0007.png
