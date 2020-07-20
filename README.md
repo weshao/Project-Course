@@ -1,16 +1,20 @@
 ##  Installation
-Folder structure
-'''
-├── Project-Course
-│   ├── CIHP_PGN
-│   ├── input
-│   ├── octopus
-│   ├── openposee
-│   ├── output
-│   ├── run_demo.sh
-│   ├── semantic_human_texture_stitching
-└── ...
-'''
+File structure
+    .
+    ├── ...
+    ├── Project-Course 
+    │   ├── CIHP_PGN
+    │   ├── input 
+    │   ├── octopus
+    │   ├── openposee
+    │   ├── output 
+    │   ├── run_demo.sh
+    │   ├── semantic_human_texture_stitching
+    │   └── ...
+    └── ...
+
+
+
 Download and install OpenPose https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 Download and install Octopus https://github.com/thmoa/octopus]
