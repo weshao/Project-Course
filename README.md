@@ -25,3 +25,9 @@ replace infer_single.py in octopus
 Download and install CIHP_PGN https://github.com/Engineering-Course/CIHP_PGN
 
 Download and install semantic_human_texture_stitching https://github.com/thmoa/semantic_human_texture_stitching
+
+
+    .
+    cd  Project-Course
+    bash run_demo.sh
+   
